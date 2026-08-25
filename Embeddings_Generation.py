@@ -121,5 +121,5 @@ def save_embeddings_from_directory(directory_path):
 
 
 # Example usage
-directory_path = "BCE"  # <-- change this to your dataset path
+directory_path = "Students"  # <-- change this to your dataset path
 save_embeddings_from_directory(directory_path)
